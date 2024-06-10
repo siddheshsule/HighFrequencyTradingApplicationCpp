@@ -50,7 +50,7 @@ A basic HFT application written in C++ encompassing core components such as mark
 - **Regulations**: Ensure compliance with financial regulations when developing and deploying HFT systems.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 ## Acknowledgments
 Inspired by various open-source HFT frameworks and educational resources in the field of quantitative finance and algorithmic trading.
